@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         btnCoba.startAnimation(myAnim);
-
+// nih ku ubah kodingnya jadi biru kan
 
     }
 }
